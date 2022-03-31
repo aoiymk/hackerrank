@@ -4,6 +4,10 @@ Aquí un resumen de todos los desafíos de hackerrank que he ido resolviendo, la
 
 ## Algorithms
 
+### Implementation
+#### Medium
++ [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)
+
 
 ### Graph Theory
 #### Medium
